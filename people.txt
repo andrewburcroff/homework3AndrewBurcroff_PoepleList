@@ -1,0 +1,8 @@
+Andrew:Male:22
+Alex:Female:22
+AJ:Male:23
+Travis:Male:35
+Brooke:Female:19
+Ashley:Female:34
+Rose:Female:28
+Tommy:Male:73
